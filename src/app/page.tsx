@@ -7,16 +7,16 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 export default function Home() {
   return (
     <div className="min-h-screen bg-background md:px-20">
-      <div className="w-full mx-auto my-auto">
-        <h1 className=" my-10 md:my-0 text-[10vw] text-center font-bold">
+      <div className="w-full mx-auto my-auto ">
+        <h1 className=" my-5 md:my-0 text-[10vw] text-center font-bold">
           BORINGDESIGNER
         </h1>
       </div>
       <header className="border-b-2 border-dotted">
-        <div className="container mx-auto py-6 px-4">
+        <div className="container mx-auto md:py-6 px-6">
           <div className="flex flex-col gap-6">
-            <div className="flex md:items-center justify-between gap-[20px] md:max-w-[800px] max-w-[400px]">
-              <h1 className="text-[30px] leading-[50px] md:text-5xl font-medium">
+            <div className="flex md:items-center justify-between md:gap-[20px] md:max-w-[800px] max-w-[480px]">
+              <h1 className="text-[30px] leading-[30px] md:leading-[50px] md:text-5xl font-medium">
                 Boring Marketplace - Best Free Open-Source Web Templates.
               </h1>
               {/* <Button variant="outline" size="sm">

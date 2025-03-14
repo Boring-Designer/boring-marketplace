@@ -12,7 +12,7 @@ export default function TemplateGrid({ filter }: TemplateGridProps = {}) {
     : templates
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10 px-10 md:px-0">
+    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-10 px-2 md:px-0">
       {filteredTemplates.map((template) => (
         <TemplateCard key={template.id} template={template} />
       ))}
