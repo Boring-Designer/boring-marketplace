@@ -6,17 +6,20 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="min-h-screen bg-background xl:mx-7">
+    <div className="min-h-screen bg-background xl:mx-7 mt-10 mb-20 lg:my-0 lg:mt-0 lg:mb-0">
+      <div className="md:pt-10 font-bold pb-4 px-4 xm:px-0 border-b-2 border-dotted">
+        <Link href="www.boring-designer.com">BORINGDESIGNER/</Link>
+      </div>
       <div className="mx-auto my-auto">
-        <h1 className=" my-5 md:my-0 text-[10vw] xl:text-[11vw] font-bold container px-4 md:px-4 xl:px-0">
-          BORINGDESIGNER
+        <h1 className=" my-5 md:my-0 text-[8vw] xl:text-[8vw] font-bold container px-4 md:px-4 xl:px-0 pb-6 md:pb-0 border-b-2 border-dotted">
+          BORINGMARKETPLACE
         </h1>
       </div>
       <div className="">
-        <section className="container px-4 md:px-4 xl:px-0">
+        <section className="container px-4 md:px-4 xl:px-0 border-b-2 border-dotted pb-6">
           <div className="container ">
             <div className="max-w-3xl">
-              <h1 className="text-4xl sm:text-5xl font-medium mb-6 leading-tight">
+              <h1 className="text-3xl sm:text-5xl font-medium mb-6 md:pb-0 md:leading-tight leading-[40px] ">
                 Start your project with the best responsive website templates.
               </h1>
               <p className="text-lg sm:text-xl text-gray-400 leading-relaxed">
