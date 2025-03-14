@@ -8,7 +8,9 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-background xl:mx-7 mt-10 mb-20 lg:my-0 lg:mt-0 lg:mb-0">
       <div className="md:pt-10 font-bold pb-4 px-4 xm:px-0 border-b-2 border-dotted">
-        <Link href="www.boring-designer.com">BORINGDESIGNER/</Link>
+        <Link href="https://www.boring-designer.com" target="_blank">
+          <h1>BORINGDESIGNER/</h1>
+        </Link>
       </div>
       <div className="mx-auto my-auto">
         <h1 className=" my-5 md:my-0 text-[8vw] xl:text-[8vw] font-bold container px-4 md:px-4 xl:px-0 pb-6 md:pb-0 border-b-2 border-dotted">
