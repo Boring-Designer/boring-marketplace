@@ -20,12 +20,10 @@ export default function Home() {
           <div className="container ">
             <div className="max-w-3xl">
               <h1 className="text-3xl sm:text-5xl font-medium mb-6 md:pb-0 md:leading-tight leading-[40px] ">
-                Start your project with the best responsive website templates.
+              Boring Marketplace-Where Boring Designs Die.
               </h1>
               <p className="text-lg sm:text-xl text-gray-400 leading-relaxed">
-                Create beautiful websites effortlessly with premium Framer
-                templates. Explore a curated selection to kickstart your next
-                project.
+              No signups, no BS. Just pure creativity at your fingertips.Free Open-Source Web Templates and Enjoy full GitHub access for easy customization!
               </p>
             </div>
           </div>
