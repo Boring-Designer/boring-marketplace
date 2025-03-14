@@ -20,10 +20,10 @@ export default function Home() {
           <div className="container ">
             <div className="max-w-3xl">
               <h1 className="text-3xl sm:text-5xl font-medium mb-6 md:pb-0 md:leading-tight leading-[40px] ">
-              BoringMarketplace-Where Boring Designs Die.
+              BoringMarketplace-Where Boring Designs Die
               </h1>
               <p className="text-lg sm:text-xl text-gray-400 leading-relaxed">
-              No signups, no BS. Just pure creativity at your fingertips.Free Open-Source Web Templates and Enjoy full GitHub access for easy customization
+              No signups, no BS. Just pure creativity at your fingertips.Free Open-Source Web Templates and Enjoy full GitHub access for easy customizations
               </p>
             </div>
           </div>
