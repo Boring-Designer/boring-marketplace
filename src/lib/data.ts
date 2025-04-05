@@ -9,6 +9,7 @@ export const templates: Template[] = [
     tags: ["react", "tailwind", "responsive"],
     downloadUrl: "https://github.com/Boring-Designer/pearlminimal/archive/refs/heads/main.zip",
     githubUrl: "https://github.com/Boring-Designer/pearlminimal",
+    previewLink:"https://pearlminimal.vercel.app/"
   },
   {
     id: "2",
@@ -18,6 +19,7 @@ export const templates: Template[] = [
     tags: ["react", "tailwind", "responsive"],
     downloadUrl: "https://github.com/Boring-Designer/iotversetemplate/archive/refs/heads/main.zip",
     githubUrl: "https://github.com/Boring-Designer/iotversetemplate",
+    previewLink:"https://template-iotverse.vercel.app/"
   },
 ]
 

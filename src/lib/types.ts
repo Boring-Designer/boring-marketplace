@@ -6,5 +6,6 @@ export interface Template {
   tags: string[]
   downloadUrl: string
   githubUrl: string
+  previewLink:string
 }
 
