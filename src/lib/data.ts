@@ -10,5 +10,14 @@ export const templates: Template[] = [
     downloadUrl: "https://github.com/Boring-Designer/pearlminimal/archive/refs/heads/main.zip",
     githubUrl: "https://github.com/Boring-Designer/pearlminimal",
   },
+  {
+    id: "2",
+    name: "IoTVerse Agency Landing Page",
+    description: "A clean, minimal agency landing page template for developers and designers.",
+    thumbnail: "/iotverse.png",
+    tags: ["react", "tailwind", "responsive"],
+    downloadUrl: "https://github.com/Boring-Designer/iotversetemplate/archive/refs/heads/main.zip",
+    githubUrl: "https://github.com/Boring-Designer/iotversetemplate",
+  },
 ]
 
